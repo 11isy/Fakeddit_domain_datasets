@@ -17,7 +17,7 @@
 @misc{fakeddit,
 author = {Entitize},
 title = {Fakeddit: A Multimodal Dataset for Fine-grained Fake News Detection},
-howpublished = {\url{https://github.com/entitize/Fakeddit}}
+howpublished = {\url{[https://github.com/entitize/Fakeddit](https://github.com/entitize/Fakeddit)}}
 ,
 year = {2021}
 }

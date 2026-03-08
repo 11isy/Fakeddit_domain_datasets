@@ -1,4 +1,4 @@
-# MewModel Fakeddit 数据集
+# Fakeddit——domian——datasets 数据集
 
 本项目包含一个 **基于 Fakeddit 数据集标注的领域数据集**，用于虚假新闻研究和多模态分析。  
 
